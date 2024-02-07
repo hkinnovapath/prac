@@ -4,3 +4,4 @@ this is sencond line
 
 this is third line
 
+using git hub -manually
