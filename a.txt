@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hi hello world
 
 this is sencond line 
 
 this is third line
+=======
+
+>>>>>>> parent of a454dfe (new cmt)
